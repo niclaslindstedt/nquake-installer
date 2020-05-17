@@ -1,0 +1,29 @@
+{
+  "name": "nquake-installer",
+  "version": "1.0.0",
+  "description": "Cross-platform installer of nQuake client and server",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niclaslindstedt/nquake-installer.git"
+  },
+  "keywords": [
+    "quakeworld",
+    "nquake",
+    "fps"
+  ],
+  "author": "Niclas Lindstedt <nicl@slindstedt.se>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niclaslindstedt/nquake-installer/issues"
+  },
+  "homepage": "https://github.com/niclaslindstedt/nquake-installer#readme",
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "electron": "^8.3.0"
+  }
+}
