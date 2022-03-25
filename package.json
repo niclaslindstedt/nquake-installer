@@ -24,6 +24,6 @@
   "homepage": "https://github.com/niclaslindstedt/nquake-installer#readme",
   "devDependencies": {
     "dotenv": "^8.2.0",
-    "electron": "^8.3.0"
+    "electron": "^13.6.6"
   }
 }
